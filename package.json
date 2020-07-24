@@ -1,5 +1,5 @@
 {
-  "name": "swig-templates",
+  "name": "@swivel/swig-templates",
   "version": "0.0.0-development",
   "description": "A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig.",
   "keywords": [
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-swig/swig-templates.git"
+    "url": "https://github.com/swivelsoftware/swig-templates.git"
   },
   "dependencies": {
     "optimist": "~0.6",
@@ -94,7 +94,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/node-swig/swig-templates/issues"
+    "url": "https://github.com/swivelsoftware/swig-templates/issues"
   },
   "standard": {
     "env": [
